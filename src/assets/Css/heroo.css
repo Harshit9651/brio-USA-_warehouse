@@ -1,0 +1,19 @@
+.main-div {
+  margin: 4%;
+  display: flex;
+  justify-content: space-between; /* Ensure equal spacing between the two containers */
+  align-items: center;
+  background-color: #a44444;
+  width: 92vw;
+  height: auto;
+}
+.main-div .content-container {
+  width: 50%;
+  padding: 20px;
+  background-color: #fff;
+}
+.main-div .content-container .image-container {
+  width: 50%;
+  padding: 20px;
+  background-color: #ddd;
+}/*# sourceMappingURL=heroo.css.map */

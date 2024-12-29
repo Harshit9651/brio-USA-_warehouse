@@ -1,0 +1,14 @@
+.main-div{
+    margin: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    background-color: #a44444;
+    width: 100%;
+}
+
+.content-container{
+    width:50%;
+    
+}
